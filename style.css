@@ -1,0 +1,13 @@
+canvas{
+    margin-left: 500px; 
+   
+}
+h1{
+    font-family: Bangers;
+    font-size: 100px;
+    background-image: url(img/background.jpg);
+    color: white;
+    text-align: center;
+    padding: 35px;
+    
+}
